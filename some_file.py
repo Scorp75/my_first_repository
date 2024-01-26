@@ -1,3 +1,3 @@
-print ("This is a first repository")
+print("This is a first repository")
 
-print ("New message")
+print("New message")
